@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Panagiotis Grontas"
+title                    : "Dr. Panagiotis M. Grontas"
 title_separator          : "-"
-name                     : &name "Panagiotis Grontas"
+name                     : &name "Panagiotis M. Grontas"
 description              : &description "Computer Science Teacher and PostDoctoral Researcher"
 url                      : https://pgrontas.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "panosfi.png"
-  name             : "Panagiotis Grontas"
+  name             : "Panagiotis M. Grontas"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Science Teacher and PostDoctoral Researcher"
   location         : "Athens, Greece"
-  employer         : #
+  employer         : "National Technical University of Athens, Archimedes@Athena Research Center"
   uri              : # URL
   email            : "pgrontas@corelab.ntua.gr" 
 
@@ -53,7 +53,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "pgrontas"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "pgrontas"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -223,7 +223,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
