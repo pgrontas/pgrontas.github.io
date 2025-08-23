@@ -1,6 +1,7 @@
 ---
 title: "Blockchain, consensus, and cryptography in electronic voting"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-01-01-Blockchain-consensus-and-cryptography-in-electronic-voting
 date: 2019-01-01
 venue: 'Homo Virtualis'
