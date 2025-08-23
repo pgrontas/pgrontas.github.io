@@ -261,11 +261,11 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "publications"
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _portfolio
