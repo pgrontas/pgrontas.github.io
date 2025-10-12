@@ -80,11 +80,13 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles (CryptoSec)'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Papers (CryptoSec)'
   drafts:
-    title: 'Preprints'
+    title: 'Preprints (CryptoSec)'
+  educonferences:
+    title: 'Conference Papers (Education) - In Greek'
   books:
     title: 'Books'
   theses:
