@@ -5,8 +5,8 @@ category: theses
 permalink: /publication/2020-01-01-Privacy-oriented-cryptographic-primitives-and-protocols-for-electronic-voting
 date: 2020-01-01
 venue: 'National Technical University of Athens'
-citation: ' Panagiotis Grontas, &quot;Privacy-oriented cryptographic primitives and protocols for electronic voting.&quot; National Technical University of Athens, 2020.'
-excerpt: 'We propose a newc ryptographic primitive, Publicly Auditable Conditional Blind Signatures
+citation: ' Panagiotis Grontas,  Privacy-oriented cryptographic primitives and protocols for electronic voting.  National Technical University of Athens, 2020.'
+excerpt: 'We propose a new cryptographic primitive, Publicly Auditable Conditional Blind Signatures
  (PACBS), which connects the verification of a digital signature to publicly available data.
  During signing, a predicate on these data is embedded into the signature, so that the latter is
  valid if and only if the former is true. Verification is performed by a designated verifier, in a
