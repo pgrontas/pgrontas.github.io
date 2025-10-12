@@ -36,11 +36,11 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.gr/citations?user=B2e8TsEAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7584-0643"
+  orcid            : # "https://orcid.org/my-orcid?orcid=0000-0001-7584-0643"
   semantic         : "https://www.semanticscholar.org/author/Panagiotis-M.-Grontas/20467729"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # "https://www.researchgate.net/profile/Panagiotis-Grontas-3"
-  scopus           : "https://orcid.org/my-orcid?orcid=0000-0001-7584-0643"
+  # scopus           :  "https://orcid.org/my-orcid?orcid=0000-0001-7584-0643"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -48,7 +48,7 @@ author:
   dribbble         : # Username
   github           : "pgrontas"
   kaggle           : # Username  
-  stackoverflow    : "https://stackoverflow.com/users/894620/panagiotis-grontas"    
+  stackoverflow    : # "https://stackoverflow.com/users/894620/panagiotis-grontas"    
 
   # Social media
   artstation       : # Username
