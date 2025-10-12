@@ -2,8 +2,7 @@
 title: "Towards everlasting privacy and efficient coercion resistance in remote electronic voting"
 collection: publications
 category: conferences
-permalink: /publication/
-2018-01-01-Towards-everlasting-privacy-and-efficient-coercion-resistance-in-remote-electronic-voting
+permalink: /publication/2018-01-01-Towards-everlasting-privacy-and-efficient-coercion-resistance-in-remote-electronic-voting
 date: 2018-01-01
 venue: 'In the proceedings of International Conference on Financial Cryptography and Data Security'
 citation: 'Grontas, P., Pagourtzis, A., Zacharakis, A., Zhang, B. (2019). Towards Everlasting Privacy and Efficient Coercion Resistance in Remote Electronic Voting. In: Zohar, A., et al. Financial Cryptography and Data Security. FC 2018. Lecture Notes in Computer Science(), vol 10958. Springer, Berlin, Heidelberg.'
