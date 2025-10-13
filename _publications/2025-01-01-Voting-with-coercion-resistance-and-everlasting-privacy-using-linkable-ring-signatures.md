@@ -2,7 +2,7 @@
 title: "Voting with coercion resistance and everlasting privacy using linkable ring signatures"
 collection: publications
 category: drafts
-permalink: /publication/2025-01-01-Voting-with-coercion-resistance-and-everlasting-privacy-using-linkable-ring-signatures
+permalink: [/publication/2025-01-01-Voting-with-coercion-resistance-and-everlasting-privacy-using-linkable-ring-signatures](https://eprint.iacr.org/2025/002)
 date: 2025-01-01
 venue: 'Cryptology ePrint Archive'
 citation: ' Panagiotis Grontas,  Aris Pagourtzis,  Marianna Spyrakou,  Voting with coercion resistance and everlasting privacy using linkable ring signatures.  Cryptology ePrint Archive, 2025.'
