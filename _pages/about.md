@@ -13,8 +13,10 @@ My research focuses on cryptographic :lock: primitives such as digital signature
 It is a difficult balance between two opposing forces, but cryptography provides the necessary magic to make it happen.
 Schemes that satisfy both proprties can be used as building blocks for protocols in the area of electronic voting and distributed digital payments systems such as blockchains.
 
-I am also a high school teacher enjoying to reveal the magic of Computer Science to young students :child:.
+I am also a high school teacher enjoying to reveal Computer Science to young students :child:.
 
-Here you will find details about my research and  work.
+Here you will find details about my research :books: and work :briefcase:.
+
+:construction: This site is (always) under construction! :construction:
 
 Enjoy and feel free to contact me!
