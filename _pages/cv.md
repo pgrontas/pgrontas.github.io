@@ -6,7 +6,9 @@ redirect_from:
   - /resume
 ---
 
-## 🎓 Studies
+# Bio
+
+## Studies 🎓
 
 - **PhD in Cryptography**, NTUA (2020)  
   *Thesis: Privacy-oriented cryptographic primitives and protocols for electronic voting*
@@ -14,7 +16,7 @@ redirect_from:
 - **MSc in Information Systems**, Athens University of Economics and Business (2001)  
 - **BSc in Informatics**, University of Piraeus (2000)
 
-## 🔬 Research & Academic Roles
+## Research & Academic Roles 🔬
 
 - **Postdoctoral Researcher**, Archimedes, Athena RC & NTUA (2021–present)  
   *Focus: Cryptographic protocols, privacy in e-voting & cryptocurrencies*
@@ -26,14 +28,14 @@ redirect_from:
 - **Lab Instructor**, TEI of Epirus (2006–2007)  
   *Database access programming techniques and libraries (ADO, ADO.NET)*
 
-## 👨‍🏫 Teaching Experience
+## Teaching Experience  👨‍🏫
 
 - **High School CS Teacher**, Greek Ministry of Education (2005–present)  
   *Curriculum design, national exam evaluator, educational material author*
 - **Instructor**, Greek Vocational Institutes (IEK)  
   *Subjects: Algorithms, Databases, OS, System Security, PHP, C++*
 
-## 💼 Industry Experience
+## Industry Experience 💼
 
 - **Software Engineer**, Profile Systems (2004–2005)  
   *Developed CRM and project management tools using VB6, SQL Server*
