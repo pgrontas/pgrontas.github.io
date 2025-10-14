@@ -5,9 +5,9 @@ permalink: /papers/
 author_profile: true
 ---
 
-## Cryptography
+## Cryptography :lock:
 
-### Journals
+### Journals :: :books:
 
 1. **Grontas, P.**, Pagourtzis, A.  
    *Anonymity and everlasting privacy in electronic voting.*  
@@ -24,7 +24,7 @@ author_profile: true
    **Homo Virtualis**, 2(1), 79-100. ISSN: 2585-3899.  
    [paper](http://dx.doi.org/10.12681/homvir.20289).
 
-### Conferences
+### Conferences :hotel:
 
 1. Papadoulis, G., Balla, D., **Grontas, P.**, Pagourtzis, A. (2025).  
    *AQQUA: Augmenting Quisquis with Auditability.*  
@@ -52,7 +52,7 @@ author_profile: true
 4. Behrouz, P., **Grontas, P.**, Spyrakou, M. (2020).  
    *On coercion resistance in decentralized voting (Extended Abstract).*  
    In: **1st International Workshop on Foundations of Consensus and Distributed Ledgers (FOCODILE 2020)**, June 19, 2020.  
-   [PDF](http://www.corelab.ntua.gr/~pgrontas/papers/on_decr.pdf)
+   [PDF](/files/papers/10.FOCODILE_20_paper.pdf)
 
 5. **Grontas, P.**, Pagourtzis, A., Zacharakis, Α. (2019).  
    *Security models for everlasting privacy.*  
@@ -81,12 +81,12 @@ author_profile: true
    In: **7th International Conference on Algebraic Informatics (CAI 2017).**  
    *Expanded version:* [Cryptology ePrint Archive Report 2017/682](https://eprint.iacr.org/2017/682)
 
-### Preprints - Working papers
+### Preprints - Working papers :bookmark_tabs:
 - **Grontas, P.**, Pagourtzis, A., Spyrakou, M. (2025).  
 *Voting with coercion resistance and everlasting privacy using linkable ring signatures.*  
 [https://eprint.iacr.org/2025/002](https://eprint.iacr.org/2025/002)
 
-### Books
+### Books  :closed_book:
 
 1. Ζάχος, Ε., Παγουρτζής, Α., **Γροντάς, Π.** (2016).  
 *Υπολογιστική Κρυπτογραφία* [ηλεκτρονικό βιβλίο].  
@@ -94,30 +94,33 @@ author_profile: true
 ISBN: 978-960-603-276-9.  
 [https://repository.kallipos.gr/handle/11419/5439](https://repository.kallipos.gr/handle/11419/5439)
 
-## Education
+## Education :school:
 
 1. **Γροντάς, Π.** (2019).  
 *Η εύρεση μέγιστου στοιχείου ως ολοκληρωμένο παράδειγμα εφαρμογής υπολογιστικής σκέψης.*  
 11ο Συνέδριο για την Πληροφορική στην Εκπαίδευση, (σσ. 436–445), ΕΠΥ 2019.  
-ISBN: 978-960-578-058-6.
+ISBN: 978-960-578-058-6.  
+[PDF](/files/papers/9.CIE2019_paper.pdf)
 
 1. **Γροντάς, Π.** (2016).  
 *Μία πρόταση διδασκαλίας για την ανταλλαγή Κλειδιού Diffie-Hellman.*  
 8ο Συνέδριο για την Πληροφορική στην Εκπαίδευση, (σσ. 436–445), ΕΠΥ 2016.  
-ISBN: 978-960-578-023-4.
+ISBN: 978-960-578-023-4.  
+[PDF](/files/papers/3.CIE2016_pgrontas_DHKE.pdf)
 
 1. Βραχνός, Ε., **Γροντάς, Π.**, Ντζιός, Κ., Παπαργύρης, Γ. (2010).  
 *Η αλγοριθμική φιλοσοφία του μαθήματος «Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον».*  
 Περιέχεται στο συλλογικό τόμο *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον, Παρελθόν, Παρόν, Μέλλον*,  
 Εκδόσεις Νέων Τεχνολογιών (2010).  
-ISBN: 978-960-675-952-9.
+ISBN: 978-960-675-952-9.  
+[PDF](/files/papers/1.%20Η%20αλγοριθμική%20φιλοσοφία%20του%20μαθήματος%20της%20Ανάπτυξης%20Εφαρμογών.pdf)
 
-## Theses
+## Theses  :office:
 
-1. PhD Thesis. *Privacy-oriented cryptographic primitives and protocols for electronic voting*. NTUA. 2020.
+1. PhD Thesis. *Privacy-oriented cryptographic primitives and protocols for electronic voting*. NTUA. 2020. [PDF](https://dspace.lib.ntua.gr/xmlui/handle/123456789/53249)
 
-2. MSc Thesis. *Secure multi-party computations for electronic voting*. UoA. 2014.
+2. MSc Thesis. *Secure multi-party computations for electronic voting*. UoA. 2014. [PDF](/files/theses/3.pgrontas.mpla.thesis.pdf)
 
-3. MSc Thesis. *Electronic signatures and accreditation of certification service providers*. AUEB. 2002.
+3. MSc Thesis. *Electronic signatures and accreditation of certification service providers*. AUEB. 2002. [PDF](/files/theses/2.pgrontas.aueb.thesis.pdf)
 
-4. BSc Thesis. *Load management in distributed object systems*. UniPi. 2000.
+4. BSc Thesis. *Load management in distributed object systems*. UniPi. 2000. [PDF](/files/theses/1.pgrontas.bsc.thesis.pdf)
