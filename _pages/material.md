@@ -54,4 +54,4 @@ Cryptography in voting aims to resolve the impossible dilemma: Can we have publi
 
 All material in this page is provided under license CC BY-NC-SA.
 
- ![CC BY-NC-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+ ![CC BY-NC-SA](/images/by-nc-sa.png)

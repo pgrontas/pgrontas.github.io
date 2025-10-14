@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-## 🎓 Education
+## 🎓 Studies
 
 - **PhD in Cryptography**, NTUA (2020)  
   *Thesis: Privacy-oriented cryptographic primitives and protocols for electronic voting*
