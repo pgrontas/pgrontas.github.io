@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-# Bio
+# About me
 
 ## Studies 🎓
 
