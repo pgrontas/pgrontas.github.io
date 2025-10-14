@@ -5,8 +5,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-# About me
+Some words about me.
 
 ## Studies 🎓
 
