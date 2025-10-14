@@ -6,8 +6,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## 🎓 Education
 
 - **PhD in Cryptography**, NTUA (2020)  
@@ -46,41 +44,4 @@ redirect_from:
 - **Software Engineer**, Interworks (2001–2002)  
   *E-commerce platform development with ASP, VB6, SQL Server*
 
-## 📚 Selected Publications
 
-### Journal Articles (CryptoSec)
-
-- *Anonymity and Everlasting Privacy in Electronic Voting*, Int. J. Inf. Secur. (2023)
-- *Publicly Auditable Conditional Blind Signatures*, Journal of Computer Security (2021)
-- *Blockchain, Consensus, and Cryptography in Electronic Voting*, Homo Virtualis (2019)
-
-### International Conferences (CryptoSec)
-
-- *AQQUA: Augmenting Quisquis with Auditability*, ACNS 2025
-- *Designated-Verifier Linkable Ring Signatures*, CAI 2022 & ICISC 2021
-- *Everlasting Privacy and Coercion Resistance in Electronic Voting*, FC 2018, ISPAN-FCST-ISCC 2017
-- *Conditional Blind Signatures*, CAI 2017
-
-### Greek Conferences (Education)
-
-- *Computational Thinking via computing maximum elements*, EΠΥ 2019
-- *Teaching Diffie-Hellman Key Exchange in High Schools*, EΠΥ 2016
-
-### Books & Chapters
-
-- *Computational Cryptography*, Kallipos Academic Library (2016)
-
-### Preprints
-
-- *Voting with Coercion Resistance and Everlasting Privacy using Linkable Ring Signatures*, IACR ePrint 2025/002
-
-## 💻 Technical Skills
-
-- **Programming Languages**: C, C++, Java, Python, Haskell, F#, SQL, PHP, ASP, VB6  
-- **Misc Tools**: LaTeX, Git, UML, Crystal Reports  
-- **Databases**: SQL Server, MySQL  
-- **Web**: ASP, PHP, XML
-
-## 🌍 Languages
-
-- Greek (native), English (proficient), German (basic)

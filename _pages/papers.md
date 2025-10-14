@@ -87,6 +87,7 @@ author_profile: true
 [https://eprint.iacr.org/2025/002](https://eprint.iacr.org/2025/002)
 
 ### Books
+
 1. Ζάχος, Ε., Παγουρτζής, Α., **Γροντάς, Π.** (2016).  
 *Υπολογιστική Κρυπτογραφία* [ηλεκτρονικό βιβλίο].  
 Σύνδεσμος Ελληνικών Ακαδημαϊκών Βιβλιοθηκών, Αθήνα 2015.  
@@ -112,3 +113,11 @@ ISBN: 978-960-578-023-4.
 ISBN: 978-960-675-952-9.
 
 ## Theses
+
+1. PhD Thesis. *Privacy-oriented cryptographic primitives and protocols for electronic voting*. NTUA. 2020.
+
+2. MSc Thesis. *Secure multi-party computations for electronic voting*. UoA. 2014.
+
+3. MSc Thesis. *Electronic signatures and accreditation of certification service providers*. AUEB. 2002.
+
+4. BSc Thesis. *Load management in distributed object systems*. UniPi. 2000.
