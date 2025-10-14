@@ -9,7 +9,7 @@ redirect_from:
 ## 🎓 Education
 
 - **PhD in Cryptography**, NTUA (2020)  
-  *Thesis: Privacy-preserving protocols for electronic voting*
+  *Thesis: Privacy-oriented cryptographic primitives and protocols for electronic voting*
 - **MSc in Logic, Algorithms & Computation**, University of Athens (2014)  
 - **MSc in Information Systems**, Athens University of Economics and Business (2001)  
 - **BSc in Informatics**, University of Piraeus (2000)
@@ -43,5 +43,3 @@ redirect_from:
   *Custom-made report software*
 - **Software Engineer**, Interworks (2001–2002)  
   *E-commerce platform development with ASP, VB6, SQL Server*
-
-

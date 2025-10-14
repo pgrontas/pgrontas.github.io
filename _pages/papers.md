@@ -94,7 +94,7 @@ author_profile: true
 ISBN: 978-960-603-276-9.  
 [https://repository.kallipos.gr/handle/11419/5439](https://repository.kallipos.gr/handle/11419/5439)
 
-## Education :school:
+## Education :school: (in greek)
 
 1. **Γροντάς, Π.** (2019).  
 *Η εύρεση μέγιστου στοιχείου ως ολοκληρωμένο παράδειγμα εφαρμογής υπολογιστικής σκέψης.*  
@@ -121,6 +121,6 @@ ISBN: 978-960-675-952-9.
 
 2. MSc Thesis. *Secure multi-party computations for electronic voting*. UoA. 2014. [PDF](/files/theses/3.pgrontas.mpla.thesis.pdf)
 
-3. MSc Thesis. *Electronic signatures and accreditation of certification service providers*. AUEB. 2002. [PDF](/files/theses/2.pgrontas.aueb.thesis.pdf)
+3. MSc Thesis. *Electronic signatures and accreditation of certification service providers*. AUEB. 2002. [PDF](/files/theses/2.pgrontas.aueb.thesis.pdf) (in greek)
 
-4. BSc Thesis. *Load management in distributed object systems*. UniPi. 2000. [PDF](/files/theses/1.pgrontas.bsc.thesis.pdf)
+4. BSc Thesis. *Load management in distributed object systems*. UniPi. 2000. [PDF](/files/theses/1.pgrontas.bsc.thesis.pdf) (in greek)
