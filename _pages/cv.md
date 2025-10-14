@@ -20,7 +20,7 @@ redirect_from:
   *Focus: Cryptographic protocols, privacy in e-voting & cryptocurrencies*
 - **Adjunct Lecturer**, NTUA & University of Athens (ALMA)  
   *Courses: Cryptography, Algorithms, Complexity Theory*
-- **Thesis Supervisor**, multiple graduate projects on Schnorr signatures, ring signatures, and voting protocols
+- **Thesis (co)Supervisor**, multiple graduate projects on Schnorr signatures, ring signatures, and voting protocols
 - **Teaching Assistant**, NTUA (2013–2020)  
   *Lectures and exercises on public-key cryptography, zero-knowledge proofs, and coercion-resistant voting*
 - **Lab Instructor**, TEI of Epirus (2006–2007)  
