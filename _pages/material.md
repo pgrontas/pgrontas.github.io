@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Cryptography Material"
 permalink: /material/
 author_profile: true
 ---
@@ -50,7 +50,7 @@ We discuss signatures from identification schemes and how to prove the security 
 ### Electronic Voting With Cryptography
 
 The topic of my PhD thesis, in a mega-lesson, parts of which I use both on the undergraduate and postgraduate courses.
-Cryptography in voting aims to resolve the impossible dilemma: Can we have public verifiability of an election, while keeping the ballots secret? Paradoxically, the answer is yes! (under assumptions of course). This lecture, describes the solutions, their limitations and the most widely used formal models that are used to reason about them.
+Cryptography in voting aims to resolve the impossible dilemma: Can we have public verifiability of an election, while keeping the ballots secret? Paradoxically, the answer is yes! (under assumptions of course). This lecture, describes the solutions, their limitations and the most widely used formal models that are used to reason about them. [Slides](/files/teaching/cryptovoting.pdf).
 
 All material in this page is provided under license CC BY-NC-SA.
 
