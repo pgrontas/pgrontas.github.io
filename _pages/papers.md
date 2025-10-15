@@ -12,17 +12,17 @@ author_profile: true
 1. **Grontas, P.**, Pagourtzis, A.  
    *Anonymity and everlasting privacy in electronic voting.*  
    **Int. J. Inf. Secur**. 22, 819–832 (2023).ISSN: 1615-5270.  
-    [paper](https://doi.org/10.1007/s10207-023-00666-2)
+    [https://doi.org/10.1007/s10207-023-00666-2](https://doi.org/10.1007/s10207-023-00666-2)
 
 1. **Grontas, P.**, Pagourtzis A., Zacharakis A., Zhang B.  
    *Publicly auditable conditional blind signatures.*  
    **Journal of Computer Security**. 2021;29(2):229-271. ISSN:0926-227X.  
-   [paper](http://dx.doi.org/10.3233/JCS-181270).
+   [http://dx.doi.org/10.3233/JCS-181270](http://dx.doi.org/10.3233/JCS-181270).
 
 1. **Grontas, P.**, Pagourtzis A. (2019).  
    *Blockchain, consensus, and cryptography in electronic voting.*  
    **Homo Virtualis**, 2(1), 79-100. ISSN: 2585-3899.  
-   [paper](http://dx.doi.org/10.12681/homvir.20289).
+   [http://dx.doi.org/10.12681/homvir.20289](http://dx.doi.org/10.12681/homvir.20289).
 
 ### Conferences :hotel:
 
@@ -43,7 +43,7 @@ author_profile: true
 
 3. Behrouz, P., **Grontas, P.**, Konstantakatos, V., Pagourtzis, A., Spyrakou, M. (2022).  
    *Designated-Verifier Linkable Ring Signatures.*  
-   In: Park, J.H., Seo, S.H. (eds) **Information Security and Cryptology – ICISC 2021.**  
+   In: Park, J.H., Seo, S.H. (eds) **Information Security and Cryptology. ICISC 2021.**  
    Lecture Notes in Computer Science, vol 13218. Springer, Cham.  
    ISBN: 978-3-031-08896-4.  
    [https://doi.org/10.1007/978-3-031-08896-4_3](https://doi.org/10.1007/978-3-031-08896-4_3)  
@@ -52,7 +52,7 @@ author_profile: true
 4. Behrouz, P., **Grontas, P.**, Spyrakou, M. (2020).  
    *On coercion resistance in decentralized voting (Extended Abstract).*  
    In: **1st International Workshop on Foundations of Consensus and Distributed Ledgers (FOCODILE 2020)**, June 19, 2020.  
-   [PDF](/files/papers/10.FOCODILE_20_paper.pdf)
+   [pdf](/files/papers/10.FOCODILE_20_paper.pdf)
 
 5. **Grontas, P.**, Pagourtzis, A., Zacharakis, Α. (2019).  
    *Security models for everlasting privacy.*  
@@ -100,27 +100,27 @@ ISBN: 978-960-603-276-9.
 *Η εύρεση μέγιστου στοιχείου ως ολοκληρωμένο παράδειγμα εφαρμογής υπολογιστικής σκέψης.*  
 11ο Συνέδριο για την Πληροφορική στην Εκπαίδευση, (σσ. 436–445), ΕΠΥ 2019.  
 ISBN: 978-960-578-058-6.  
-[PDF](/files/papers/9.CIE2019_paper.pdf)
+[pdf](/files/papers/9.CIE2019_paper.pdf)
 
 1. **Γροντάς, Π.** (2016).  
 *Μία πρόταση διδασκαλίας για την ανταλλαγή Κλειδιού Diffie-Hellman.*  
 8ο Συνέδριο για την Πληροφορική στην Εκπαίδευση, (σσ. 436–445), ΕΠΥ 2016.  
 ISBN: 978-960-578-023-4.  
-[PDF](/files/papers/3.CIE2016_pgrontas_DHKE.pdf)
+[pdf](/files/papers/3.CIE2016_pgrontas_DHKE.pdf)
 
 1. Βραχνός, Ε., **Γροντάς, Π.**, Ντζιός, Κ., Παπαργύρης, Γ. (2010).  
 *Η αλγοριθμική φιλοσοφία του μαθήματος «Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον».*  
 Περιέχεται στο συλλογικό τόμο *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον, Παρελθόν, Παρόν, Μέλλον*,  
 Εκδόσεις Νέων Τεχνολογιών (2010).  
 ISBN: 978-960-675-952-9.  
-[PDF](/files/papers/1.%20Η%20αλγοριθμική%20φιλοσοφία%20του%20μαθήματος%20της%20Ανάπτυξης%20Εφαρμογών.pdf)
+[pdf](/files/papers/1.%20Η%20αλγοριθμική%20φιλοσοφία%20του%20μαθήματος%20της%20Ανάπτυξης%20Εφαρμογών.pdf)
 
 ## Theses  :office:
 
-1. PhD Thesis. *Privacy-oriented cryptographic primitives and protocols for electronic voting*. NTUA. 2020. [PDF](https://dspace.lib.ntua.gr/xmlui/handle/123456789/53249)
+1. PhD Thesis. *Privacy-oriented cryptographic primitives and protocols for electronic voting*. NTUA. 2020. [pdf](https://dspace.lib.ntua.gr/xmlui/handle/123456789/53249)
 
-2. MSc Thesis. *Secure multi-party computations for electronic voting*. UoA. 2014. [PDF](/files/theses/3.pgrontas.mpla.thesis.pdf)
+2. MSc Thesis. *Secure multi-party computations for electronic voting*. UoA. 2014. [pdf](/files/theses/3.pgrontas.mpla.thesis.pdf)
 
-3. MSc Thesis. *Electronic signatures and accreditation of certification service providers*. AUEB. 2002. [PDF](/files/theses/2.pgrontas.aueb.thesis.pdf) (in greek)
+3. MSc Thesis. *Electronic signatures and accreditation of certification service providers*. AUEB. 2002. [pdf](/files/theses/2.pgrontas.aueb.thesis.pdf) (in greek)
 
-4. BSc Thesis. *Load management in distributed object systems*. UniPi. 2000. [PDF](/files/theses/1.pgrontas.bsc.thesis.pdf) (in greek)
+4. BSc Thesis. *Load management in distributed object systems*. UniPi. 2000. [pdf](/files/theses/1.pgrontas.bsc.thesis.pdf) (in greek)
